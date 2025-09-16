@@ -21,7 +21,7 @@ Actualmente cuenta con la **interfaz de usuario**, pero no la lógica completa.
 ---
 
 ## 📜 Certificados
-[Uploading CERTIFICADO BOOTCAMP.pdf…]()
+[CERTIFICADO BOOTCAMP.pdf…]()
 
 
 ---
