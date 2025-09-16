@@ -31,7 +31,8 @@ Por ahora contiene solo la **parte visual**, pero me ayudó a practicar diseño 
 ---
 
 ## 📜 Certificados
-- ✅ [Certificado MinTIC](enlace-al-certificado.pdf)  
+[Uploading CERTIFICADO BOOTCAMP.pdf…]()
+
 
 ---
 
