@@ -1,4 +1,6 @@
-# 👋 ¡Hola! Soy Diego Rincón  
+# Diego Fernando Rincón Gomez  
+
+---------------------------------------------------------------------------------------
 
 💻 **Estudiante de Ingeniería Informática**  
 📱 Apasionado por la programación.  
