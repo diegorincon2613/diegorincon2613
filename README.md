@@ -1,18 +1,15 @@
-👋 ¡Hola! Soy Diego Rincón  
+# 👋 ¡Hola! Soy Diego Rincón  
 
 💻 **Estudiante de Ingeniería Informática**  
 📱 Apasionado por la programación.  
-🚀 En constante aprendizaje y creando proyectos que me ayuden a crecer como desarrollador  
+🚀 En constante aprendizaje y creando proyectos que me ayuden a crecer como desarrollador.  
 
 ---
 
+## ✨ Proyectos
 
-✨ Proyectos
-
-### 🛵 App de Domicilios
-<p align="center">
- (https://github.com/diegorincon2613/app_domicilios)
-</p>
+### 🛵 App de Domicilios  
+📍 [Ver repositorio](https://github.com/diegorincon2613/app_domicilios)  
 
 📱 Prototipo visual de una aplicación de domicilios.  
 Actualmente cuenta con la **interfaz de usuario**, pero no la lógica completa.  
@@ -20,13 +17,21 @@ Actualmente cuenta con la **interfaz de usuario**, pero no la lógica completa.
 
 ---
 
-## 📜 Certificados
-[CERTIFICADO BOOTCAMP.pdf…]()
+## 📜 Certificaciones  
 
+Aquí algunos de mis logros:  
+
+- 🎓 [Certificado Bootcamp](./certificados/CERTIFICADO_BOOTCAMP.pdf)  
+- 🏅 [Curso de Git y GitHub](./certificados/git_github.pdf)  
+- 💡 [Certificado de Java Básico](./certificados/java_basico.pdf)  
+
+<p align="center">
+  <img src="./certificados/certificado_bootcamp.png" width="400"/>
+</p>
 
 ---
 
- ✨ Sobre mí
+## ✨ Sobre mí
 - 🌍 Desde Villavicencio, Colombia  
 - 📚 Aprendiendo **Flutter, Dart, Python y Java**  
 - 🎯 Objetivo: Ser desarrollador full-stack y trabajar en proyectos innovadores  
@@ -44,16 +49,16 @@ Actualmente cuenta con la **interfaz de usuario**, pero no la lógica completa.
 ---
 
 ## 📊 Mis estadísticas en GitHub
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=diegorincon2613&show_icons=true&theme=tokyonight)  
-![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=diegorincon2613&layout=compact&theme=tokyonight)  
-
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=diegorincon2613&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegorincon2613&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
 ## 📫 Cómo contactarme
-- 📧 Correo: [diegorincon816@gmail.com](mailto:diegorincon816@gmail.com)  
-- 💼 LinkedIn: [Mi perfil](https://www.linkedin.com/in/diego-rincon-876600242/)  
+- 📧 [diegorincon816@gmail.com](mailto:diegorincon816@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/diego-rincon-876600242/)  
 
 ---
 
