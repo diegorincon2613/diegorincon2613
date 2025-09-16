@@ -1,12 +1,12 @@
-# 👋 ¡Hola! Soy Diego Rincón  
+👋 ¡Hola! Soy Diego Rincón  
 
 💻 **Estudiante de Ingeniería Informática**  
-📱 Apasionado por la programación móvil, sistemas embebidos y desarrollo web  
+📱 Apasionado por la programación.  
 🚀 En constante aprendizaje y creando proyectos que me ayuden a crecer como desarrollador  
 
 ---
 
-## ✨ Sobre mí
+ ✨ Sobre mí
 - 🌍 Desde Villavicencio, Colombia  
 - 📚 Aprendiendo **Flutter, Dart, Python y Java**  
 - 🎯 Objetivo: Ser desarrollador full-stack y trabajar en proyectos innovadores  
@@ -29,9 +29,6 @@
 ![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=diegorincon2613&layout=compact&theme=tokyonight)  
 
 ---
-
-## 🐍 Actividad en GitHub
-![Snake animation](https://github.com/diegorincon2613/diegorincon2613/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
