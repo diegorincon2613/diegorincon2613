@@ -23,11 +23,6 @@ Aquí algunos de mis logros:
 
 - 🎓 [Certificado Bootcamp](./certificados/CERTIFICADO_BOOTCAMP.pdf)  
 
-
-<p align="center">
-  <img src="./certificados/certificado_bootcamp.png" width="400"/>
-</p>
-
 ---
 
 ## ✨ Sobre mí
