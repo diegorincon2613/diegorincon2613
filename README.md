@@ -21,7 +21,7 @@ Actualmente cuenta con la **interfaz de usuario**, pero no la lógica completa.
 
 Aquí algunos de mis logros:  
 
-- 🎓 [Certificado Bootcamp](./certificados/CERTIFICADO_BOOTCAMP.pdf)  
+- 🎓 [Certificado Bootcamp](./certificados2/CERTIFICADO_BOOTCAMP.pdf)  
 
 <p align="center">
   <img src="./certificados/CERTIFICADO_BOOTCAMP.png" width="500"/>
