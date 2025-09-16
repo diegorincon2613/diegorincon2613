@@ -17,18 +17,6 @@ Actualmente cuenta con la **interfaz de usuario**, pero no la lógica completa.
 
 ---
 
-## 📜 Certificaciones  
-
-Aquí algunos de mis logros:  
-
-- 🎓 [Certificado Bootcamp](./certificados2/CERTIFICADO_BOOTCAMP.pdf)  
-
-<p align="center">
-  <img src="./certificados/CERTIFICADO_BOOTCAMP.png" width="500"/>
-</p>
-
----
-
 ## ✨ Sobre mí
 - 🌍 Desde Villavicencio, Colombia  
 - 📚 Aprendiendo **Flutter, Dart, Python y Java**  
