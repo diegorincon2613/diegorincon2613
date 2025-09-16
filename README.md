@@ -22,8 +22,7 @@ Actualmente cuenta con la **interfaz de usuario**, pero no la lógica completa.
 Aquí algunos de mis logros:  
 
 - 🎓 [Certificado Bootcamp](./certificados/CERTIFICADO_BOOTCAMP.pdf)  
-- 🏅 [Curso de Git y GitHub](./certificados/git_github.pdf)  
-- 💡 [Certificado de Java Básico](./certificados/java_basico.pdf)  
+
 
 <p align="center">
   <img src="./certificados/certificado_bootcamp.png" width="400"/>
