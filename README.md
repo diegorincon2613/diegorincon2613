@@ -33,7 +33,7 @@
 
 ## 📫 Cómo contactarme
 - 📧 Correo: [diegorincon816@gmail.com](mailto:diegorincon816@gmail.com)  
-- 💼 LinkedIn: [Tu perfil](www.linkedin.com/in/diego-rincon-876600242)  
+- 💼 LinkedIn: [Tu perfil](www.linkedin.com/in/diego-rincon-876600242/)  
 
 ---
 
