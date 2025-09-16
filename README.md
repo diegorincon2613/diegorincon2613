@@ -6,6 +6,35 @@
 
 ---
 
+
+✨ Proyectos
+
+### 🛵 App de Domicilios
+<p align="center">
+  <img src="https://img.shields.io/badge/Estado-En%20desarrollo-yellow?style=for-the-badge"/>
+</p>
+
+📱 Prototipo visual de una aplicación de domicilios.  
+Actualmente cuenta con la **interfaz de usuario**, pero no la lógica completa.  
+👉 Primer paso en mi camino como desarrollador.  
+
+---
+
+### 🏨 App de Hotel
+<p align="center">
+  <img src="https://img.shields.io/badge/Estado-Prototipo-orange?style=for-the-badge"/>
+</p>
+
+🎨 Proyecto inicial de una aplicación para gestión de hoteles.  
+Por ahora contiene solo la **parte visual**, pero me ayudó a practicar diseño y estructura de interfaces.  
+
+---
+
+## 📜 Certificados
+- ✅ [Certificado MinTIC](enlace-al-certificado.pdf)  
+
+---
+
  ✨ Sobre mí
 - 🌍 Desde Villavicencio, Colombia  
 - 📚 Aprendiendo **Flutter, Dart, Python y Java**  
