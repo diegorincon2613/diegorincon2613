@@ -11,7 +11,7 @@
 
 ### 🛵 App de Domicilios
 <p align="center">
-  [<img src="https://img.shields.io/badge/Estado-En%20desarrollo-yellow?style=for-the-badge"/>](https://github.com/diegorincon2613/app-domicilios)
+  [<img src="https://img.shields.io/badge/Estado-En%20desarrollo-yellow?style=for-the-badge"/>](https://github.com/diegorincon2613/app_domicilios)
 </p>
 
 📱 Prototipo visual de una aplicación de domicilios.  
